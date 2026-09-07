@@ -29,7 +29,7 @@ Install
 =======
 ```sh
 git clone --recursive https://github.com/drinkcat/ezIFD.git
-cd CCID
+cd ezIFD
 autoreconf --install
 ./configure
  make
